@@ -120,4 +120,4 @@ function Dab(){
 
 setInterval(function autoDab(){
   ant += dabSpeed;
-}, 1)
+}, 1);
