@@ -28,7 +28,7 @@ function keydown(){
     keyspace = true;
     test = false;
     ant+=upgradeClick;
-    console.log("space = true")
+    console.log("space = true");
   }
   
   else{
